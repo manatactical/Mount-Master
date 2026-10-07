@@ -1,0 +1,13 @@
+ID,Flags,ModelName,SizeClass,ModelScale,BloodID,FootprintTextureID,FootprintTextureLength,FootprintTextureWidth,FootprintParticleScale,FoleyMaterialID,FootstepShakeSize,DeathThudShakeSize,SoundID,CollisionWidth,CollisionHeight,MountHeight,GeoBoxMinX,GeoBoxMinY,GeoBoxMinZ,GeoBoxMaxX,GeoBoxMaxY,GeoBoxMaxZ,WorldEffectScale,AttachedEffectScale,MissileCollisionRadius,MissileCollisionPush,MissileCollisionRaise
+100023,0,Creature\ReinDeer\ReinDeerMount.mdx,1,1.0,1,7,18,12,1,0,0,0,0,0.5,1.0,0,-0.5,-1.0,0,0.5,1.0,0,1,1,0,0,0
+100023,0,Creature\suramarmount\suramarmount.mdx,1,1.0,1,7,18,12,1,0,0,0,0,0.5,1.0,0,-0.5,-1.0,0,0.5,1.0,0,1,1,0,0,0
+100024,0,Creature\fox2\fox2.mdx,1,1.0,1,7,18,12,1,0,0,0,0,0.5,1.0,0,-0.5,-1.0,0,0.5,1.0,0,1,1,0,0,0
+100024,0,Creature\fox2\fox2.mdx,1,1.0,1,7,18,12,1,0,0,0,0,0.5,1.0,0,-0.5,-1.0,0,0.5,1.0,0,1,1,0,0,0
+100025,0,Creature\fox2\fox2.mdx,1,1.0,1,7,18,12,1,0,0,0,0,0.5,1.0,0,-0.5,-1.0,0,0.5,1.0,0,1,1,0,0,0
+100025,0,Creature\fox2\fox2.mdx,1,1.0,1,7,18,12,1,0,0,0,0,0.5,1.0,0,-0.5,-1.0,0,0.5,1.0,0,1,1,0,0,0
+100025,0,Creature\fox2\fox2.mdx,1,1.0,1,7,18,12,1,0,0,0,0,0.5,1.0,0,-0.5,-1.0,0,0.5,1.0,0,1,1,0,0,0
+100024,0,Creature\fox2\fox2.mdx,1,1.0,1,7,18,12,1,0,0,0,0,0.5,1.0,0,-0.5,-1.0,0,0.5,1.0,0,1,1,0,0,0
+100025,0,Creature\fox2\fox2.mdx,1,1.0,1,7,18,12,1,0,0,0,0,0.5,1.0,0,-0.5,-1.0,0,0.5,1.0,0,1,1,0,0,0
+100026,0,Creature\turtlemount\turtlemount.mdx,1,1.0,1,7,18,12,1,0,0,0,0,0.5,1.0,0,-0.5,-1.0,0,0.5,1.0,0,1,1,0,0,0
+100027,0,Creature\fox2\fox2.mdx,1,1.0,1,7,18,12,1,0,0,0,0,0.5,1.0,0,-0.5,-1.0,0,0.5,1.0,0,1,1,0,0,0
+100027,0,Creature\fox2\fox2.mdx,1,1.0,1,7,18,12,1,0,0,0,0,0.5,1.0,0,-0.5,-1.0,0,0.5,1.0,0,1,1,0,0,0

@@ -1,0 +1,13 @@
+ID,ModelID,SoundID,ExtendedDisplayInfoID,CreatureModelScale,CreatureModelAlpha,TextureVariation_1,TextureVariation_2,TextureVariation_3,PortraitTextureName,BloodLevel,BloodID,NPCSoundID,ParticleColorID,CreatureGeosetData,ObjectEffectPackageID
+100022,100023,0,0,1.0,255,ReinDeerMount,,,,1,0,0,0,0,0
+100022,100023,0,0,1.0,255,suramarmount_skin,,,,1,0,0,0,0,0
+100023,100024,0,0,1.0,255,fox2_white,,,,1,0,0,0,0,0
+100023,100024,0,0,1.2,255,fox2_white,,,,1,0,0,0,0,0
+100024,100025,0,0,1.0,255,fox2_gold,,,,1,0,0,0,0,0
+100024,100025,0,0,1.0,255,fox2_gold,,,,1,0,0,0,0,0
+100024,100025,0,0,1.2,255,fox2_gold,,,,1,0,0,0,0,0
+100023,100024,0,0,1.1,255,fox2_white,,,,1,0,0,0,0,0
+100024,100025,0,0,1.1,255,fox2_gold,,,,1,0,0,0,0,0
+100025,100026,0,0,1.0,255,turtlemount,,,,1,0,0,0,0,0
+100026,100027,0,0,1.0,255,fox2_purple,,,,1,0,0,0,0,0
+100026,100027,0,0,1.1,255,fox2_purple,,,,1,0,0,0,0,0
